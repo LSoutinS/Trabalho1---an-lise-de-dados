@@ -1,4 +1,4 @@
-# - "Coloque o Titulo aqui"
+# - "Trabalho de análise de dados - modelo de negócios"
 
 ## - Introdução.
 Este trabalho busca apresentar o modelo de negócios de uma empresa, atuante como produtora de conteúdos digitais. Tal projeto, já está em andamento assim como o cnpj da mesma já existe, visto assim o apresentado aqui tem objetivos puramente acadêmicos e espera-se o respeito a propriedade intelectual da empresa. Todos os direitos reservados.
