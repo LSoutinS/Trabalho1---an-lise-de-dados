@@ -6,7 +6,7 @@ Este trabalho busca apresentar o modelo de negócios de uma empresa, atuante com
 "Somos uma produtora de conteúdo digital, focada na área de entretenimento. Nosso conteúdo é pautado na busca pela verdade e na realidade histórica, nossas ideias são ancoradas nesses dois valores, sem viés partidário ou amarras ideológicas. "
 ## - Cama de Gato do Futuro.
 ![image](https://user-images.githubusercontent.com/86412418/197628816-975f1c46-da85-4301-8a71-739f277fdb41.png)
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPK8MGS8=/?moveToViewport=-1524,-645,3853,1944&embedId=29608823684" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 ## - Business Model Canvas.
 https://next.canvanizer.com/canvas/rOgIFbHASOWCP
 ![image](https://user-images.githubusercontent.com/86412418/197626943-b02633b0-bdc0-48f3-be1c-4e1b5ed767ef.png)
