@@ -8,6 +8,8 @@ Este trabalho busca apresentar o modelo de negócios de uma empresa, atuante com
 
 ## - Business Model Canvas.
 https://next.canvanizer.com/canvas/rOgIFbHASOWCP
+![image](https://user-images.githubusercontent.com/86412418/197626943-b02633b0-bdc0-48f3-be1c-4e1b5ed767ef.png)
+
 ## - Video clipe.
 
 ## - Fontes de dados.
